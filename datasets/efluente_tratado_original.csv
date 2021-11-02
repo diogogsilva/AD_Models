@@ -1,0 +1,1267 @@
+indicator_name,indicator_type,units,sub_type,input,value,date,city_name
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,13.1,2018-08-01,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,13.1,2018-08-08,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.8,2018-08-13,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,13.4,2018-08-23,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,13.5,2018-08-24,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,23.0,2018-08-31,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,39.0,2018-09-07,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,54.0,2018-09-14,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,37.0,2018-09-20,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,24.0,2018-09-21,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,31.0,2018-09-28,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,32.0,2018-10-10,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,33.0,2018-10-12,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,13.8,2018-10-24,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,13.3,2018-10-26,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,14.0,2018-11-02,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,10.2,2018-11-09,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,11.4,2018-11-16,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,8.0,2018-11-23,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.0,2018-11-30,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,11.0,2018-12-07,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,11.4,2018-12-14,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.14,2018-12-20,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,10.8,2018-12-26,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,13.8,2019-01-02,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,13.4,2019-01-11,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,17.5,2019-01-18,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,7.93,2019-01-23,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,7.82,2019-01-25,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,10.6,2019-02-01,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,14.3,2019-02-08,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,14.2,2019-02-15,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,18.6,2019-02-22,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,14.3,2019-03-01,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,9.89,2019-03-08,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,13.2,2019-03-15,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,18.5,2019-03-20,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,8.39,2019-03-20,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,15.8,2019-03-22,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,25.1,2019-03-29,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,15.6,2019-04-05,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,20.8,2019-04-12,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,34.0,2019-04-18,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,18.5,2019-04-26,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,36.2,2019-05-06,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,39.8,2019-05-10,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,41.0,2019-05-17,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,18.7,2019-05-24,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,15.9,2019-05-31,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,15.5,2019-06-07,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,11.4,2019-06-11,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,11.0,2019-06-14,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,19.4,2019-06-19,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,21.5,2019-06-21,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,13.5,2019-06-25,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,16.6,2019-06-28,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,28.7,2019-07-05,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,38.1,2019-07-12,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,15.7,2019-07-19,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,39.3,2019-07-29,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,21.6,2019-08-02,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,14.5,2019-08-09,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,17.8,2019-08-13,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,16.6,2019-08-13,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,13.5,2019-08-16,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,13.5,2019-08-16,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,13.1,2019-08-23,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,29.7,2019-08-30,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,28.3,2019-08-30,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,11.4,2019-09-06,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,10.7,2019-09-13,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,10.8,2019-09-20,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,8.63,2019-09-27,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,11.4,2019-10-04,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,13.7,2019-10-11,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,9.24,2019-10-18,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,12.5,2019-10-25,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,12.8,2019-10-31,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,14.3,2019-11-08,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,10.6,2019-11-15,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,12.1,2019-11-22,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,9.62,2019-11-29,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,12.0,2019-12-06,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,7.82,2019-12-13,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,9.72,2019-12-18,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.6,2019-12-20,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,12.3,2019-12-27,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,12.3,2020-01-03,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,15.1,2020-01-08,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,18.4,2020-01-10,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,19.8,2020-01-17,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,10.4,2020-01-24,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,9.89,2020-01-31,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,9.86,2020-02-07,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,13.3,2020-02-14,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,15.4,2020-02-21,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,15.0,2020-02-28,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,13.0,2020-03-04,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,9.33,2020-03-06,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,14.7,2020-03-13,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,12.6,2020-03-20,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-03-27,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,17.3,2020-04-01,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,11.6,2020-04-08,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,10.4,2020-04-15,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-04-24,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,11.6,2020-04-30,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-05-08,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,10.1,2020-05-14,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-05-22,Vila Real
+azoto_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,8.92,2020-05-27,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.0,2018-08-08,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,12.0,2018-08-24,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,10.0,2018-09-07,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2018-09-21,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.0,2018-10-10,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.0,2018-10-24,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.0,2018-11-02,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2018-11-16,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2018-11-30,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2018-12-03,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.0,2018-12-14,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2018-12-26,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.0,2019-01-11,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.0,2019-01-25,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,12.0,2019-02-08,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2019-02-22,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.0,2019-03-08,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.0,2019-03-22,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,8.0,2019-04-05,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.0,2019-04-18,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2019-05-06,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,12.0,2019-05-17,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.0,2019-05-31,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.0,2019-06-14,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.0,2019-06-28,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,7.0,2019-07-12,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.0,2019-07-29,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.0,2019-08-09,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,7.0,2019-08-23,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.0,2019-09-06,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.0,2019-09-20,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.0,2019-10-04,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.0,2019-10-18,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.0,2019-10-31,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.0,2019-11-15,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.0,2019-11-29,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2019-12-13,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.0,2019-12-27,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,12.0,2020-01-10,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2020-01-24,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.0,2020-02-07,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2020-02-21,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.0,2020-03-06,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.0,2020-03-20,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2020-04-01,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.0,2020-04-08,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.0,2020-04-15,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2020-04-30,Vila Real
+cbo,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-05-14,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,51.0,2018-08-01,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,43.7,2018-08-08,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,40.0,2018-08-13,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,53.2,2018-08-24,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,50.6,2018-08-31,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,44.3,2018-09-07,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,51.9,2018-09-14,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,31.3,2018-09-21,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,34.7,2018-09-28,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,32.3,2018-10-10,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,34.9,2018-10-12,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,27.5,2018-10-24,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,26.4,2018-10-26,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,27.0,2018-11-02,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,18.8,2018-11-09,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,22.0,2018-11-16,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,15.4,2018-11-23,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,18.2,2018-11-30,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,26.7,2018-12-03,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,22.0,2018-12-07,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,28.9,2018-12-14,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,18.6,2018-12-20,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,23.8,2018-12-26,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,30.43,2019-01-02,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,32.9,2019-01-11,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,26.9,2019-01-18,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,23.7,2019-01-25,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,19.8,2019-02-01,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,39.6,2019-02-08,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,13.1,2019-02-15,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,18.2,2019-02-22,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,29.5,2019-03-01,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,27.1,2019-03-08,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,32.5,2019-03-15,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,35.0,2019-03-22,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,34.5,2019-03-29,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,34.6,2019-04-05,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,27.6,2019-04-12,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,37.1,2019-04-18,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,20.1,2019-04-26,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,28.9,2019-05-06,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,39.8,2019-05-10,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,39.4,2019-05-17,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,24.2,2019-05-24,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,30.7,2019-05-31,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,31.4,2019-06-07,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,33.0,2019-06-14,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,32.9,2019-06-21,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,29.2,2019-06-28,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,35.7,2019-07-05,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,34.7,2019-07-12,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,29.6,2019-07-19,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,49.7,2019-07-29,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,29.1,2019-08-02,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,32.9,2019-08-09,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,40.3,2019-08-16,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,36.6,2019-08-23,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,39.8,2019-08-30,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,53.9,2019-08-30,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,33.7,2019-09-06,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,28.0,2019-09-13,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,28.0,2019-09-20,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,27.8,2019-09-27,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,37.8,2019-10-04,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,29.1,2019-10-11,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,23.3,2019-10-18,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,16.9,2019-10-25,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,20.2,2019-10-31,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,18.4,2019-11-08,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,15.2,2019-11-15,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,17.7,2019-11-22,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,20.0,2019-11-29,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,21.9,2019-12-06,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,18.7,2019-12-13,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,22.0,2019-12-20,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,21.9,2019-12-27,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,16.5,2020-01-03,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,36.2,2020-01-10,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,31.1,2020-01-17,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,30.5,2020-01-24,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,19.6,2020-01-31,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,24.3,2020-02-07,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,34.5,2020-02-14,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,28.8,2020-02-21,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,34.6,2020-02-28,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,33.7,2020-03-06,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,23.8,2020-03-13,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,24.9,2020-03-20,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-03-27,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,22.0,2020-04-01,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,18.8,2020-04-08,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,27.9,2020-04-15,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-04-24,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,24.6,2020-04-30,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-05-08,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,19.7,2020-05-14,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-05-22,Vila Real
+cqo,Controlo Analitico,mg/l,Efluente Tratado,Saida,24.7,2020-05-27,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.7,2018-08-01,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.3,2018-08-08,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.7,2018-08-13,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.7,2018-08-24,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.9,2018-08-31,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2018-09-07,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.4,2018-09-14,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2018-09-21,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2018-09-28,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2018-10-10,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2018-10-12,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2018-10-24,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2018-10-26,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.3,2018-11-02,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.7,2018-11-09,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2018-11-16,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.2,2018-11-23,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.0,2018-11-30,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.34,2018-12-07,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.823,2018-12-14,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2018-12-20,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.7,2018-12-26,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2019-01-02,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2019-01-11,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2019-01-18,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2019-01-25,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.75,2019-02-01,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.287,2019-02-08,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2019-02-15,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2019-02-22,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.322,2019-03-01,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.211,2019-03-08,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.792,2019-03-15,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.26,2019-03-20,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.505,2019-03-22,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.944,2019-03-29,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.43,2019-04-05,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.88,2019-04-12,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.28,2019-04-18,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.02,2019-04-26,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.57,2019-05-06,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.28,2019-05-10,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.437,2019-05-17,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.359,2019-05-24,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.643,2019-05-31,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.41,2019-06-07,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.77,2019-06-11,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.67,2019-06-14,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.84,2019-06-19,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.54,2019-06-21,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.16,2019-06-25,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.11,2019-06-28,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.98,2019-07-05,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.626,2019-07-12,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.01,2019-07-19,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.696,2019-07-29,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.8,2019-08-02,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.09,2019-08-09,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.95,2019-08-16,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.11,2019-08-23,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.11,2019-08-30,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.04,2019-08-30,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.3,2019-09-06,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.54,2019-09-13,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.1,2019-09-20,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.38,2019-09-27,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.58,2019-10-04,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.13,2019-10-11,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.98,2019-10-18,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.752,2019-10-25,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.8,2019-10-31,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.304,2019-11-08,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.23,2019-11-15,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.285,2019-11-22,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.308,2019-11-29,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.338,2019-12-06,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.539,2019-12-13,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.432,2019-12-18,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.634,2019-12-20,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.639,2019-12-27,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.305,2020-01-03,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.243,2020-01-08,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.374,2020-01-10,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.828,2020-01-17,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.249,2020-01-24,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.492,2020-01-31,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.808,2020-02-07,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.4,2020-02-14,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.05,2020-02-21,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.86,2020-02-28,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.32,2020-03-04,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.78,2020-03-06,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.54,2020-03-13,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.5,2020-03-20,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-03-27,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.37,2020-04-01,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.76,2020-04-08,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.77,2020-04-15,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-04-24,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.71,2020-04-30,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-05-08,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.51,2020-05-14,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-05-22,Vila Real
+fosforo_total,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-05-27,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.84,2016-01-08,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.62,2016-01-15,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.56,2016-01-22,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.81,2016-01-29,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.99,2016-02-05,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,5.05,2016-02-12,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,0.0,2016-02-19,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.03,2016-02-26,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,0.0,2016-03-04,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.81,2016-03-11,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.66,2016-03-18,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.9,2016-03-25,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.69,2016-04-01,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,0.0,2016-04-07,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,0.0,2016-04-08,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.53,2016-04-12,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.31,2016-04-15,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.67,2016-04-22,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.4,2016-04-29,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.88,2016-05-05,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.88,2016-05-06,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.9,2016-05-12,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.9,2016-05-13,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.54,2016-05-20,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.78,2016-05-27,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.03,2016-06-03,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.45,2016-06-10,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.81,2016-06-17,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.01,2016-06-24,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.0,2016-07-01,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.0,2016-07-08,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.1,2016-07-15,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.33,2016-07-22,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.2,2016-07-29,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.2,2016-08-05,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,0.0,2016-08-10,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.4,2016-08-12,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.9,2016-08-19,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,0.0,2016-08-26,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.38,2016-09-02,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.08,2016-09-09,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.91,2016-09-20,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,0.0,2016-09-20,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.1,2016-09-23,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.2,2016-09-30,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.71,2016-10-03,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.2,2016-10-13,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.18,2016-10-21,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.48,2016-10-27,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.2,2016-11-03,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.8,2016-11-16,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.8,2016-12-06,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.1,2016-12-14,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.47,2016-12-23,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.2,2016-12-27,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.1,2017-01-20,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.0,2017-01-27,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.9,2017-02-02,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.02,2017-02-10,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.6,2017-02-17,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.02,2017-02-24,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.01,2017-03-03,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.2,2017-03-09,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,5.67,2017-03-15,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.17,2017-03-24,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.1,2017-04-07,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.2,2017-04-13,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.5,2017-04-21,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.3,2017-04-28,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.6,2017-05-05,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.1,2017-05-11,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.9,2017-05-19,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.4,2017-05-26,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.3,2017-06-09,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,8.3,2017-06-16,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.9,2017-06-23,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.8,2017-06-30,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.4,2017-07-07,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.44,2017-07-14,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.18,2017-07-28,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.318,2017-08-03,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.3,2017-08-08,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.57,2017-08-17,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.9,2017-08-23,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.5,2017-09-08,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.2,2017-09-15,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.6,2017-09-21,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.7,2017-10-06,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.6,2017-10-11,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.4,2017-10-19,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.3,2017-10-25,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.56,2017-11-03,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.7,2017-11-03,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.6,2017-11-10,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.3,2017-11-17,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.8,2017-11-24,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.5,2017-11-30,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.5,2017-12-07,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.9,2017-12-15,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.0,2017-12-22,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.3,2017-12-27,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.5,2018-01-05,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.1,2018-01-12,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.9,2018-01-18,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.1,2018-01-25,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.9,2018-02-02,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.0,2018-02-09,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,8.4,2018-02-16,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.3,2018-02-23,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.1,2018-03-02,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.2,2018-03-09,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.8,2018-03-16,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.3,2018-03-23,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.2,2018-03-27,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.4,2018-04-06,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.24,2018-04-13,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.29,2018-04-20,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.3,2018-04-27,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.61,2018-05-04,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.81,2018-05-11,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.77,2018-05-15,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.6,2018-05-18,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.38,2018-06-01,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.74,2018-06-04,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.38,2018-06-15,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.31,2018-06-21,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.26,2018-06-29,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.6,2018-07-06,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.68,2018-07-27,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.57,2018-08-31,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.56,2018-09-07,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.71,2018-09-11,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.27,2018-09-12,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.7,2018-09-14,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.57,2018-09-19,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.28,2018-09-21,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.18,2018-09-28,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.01,2018-10-30,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.95,2018-10-31,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.94,2018-11-02,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.74,2018-11-06,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.27,2018-11-08,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.49,2018-11-16,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.3,2018-11-20,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.88,2018-11-23,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.79,2018-11-30,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.31,2018-12-11,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.4,2018-12-13,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.8,2018-12-14,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.95,2018-12-18,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.45,2018-12-21,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.77,2018-12-24,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.01,2018-12-26,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.42,2019-01-01,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.27,2019-01-07,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.8,2019-01-11,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.8,2019-01-14,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.76,2019-01-16,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.01,2019-01-18,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.99,2019-01-21,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.9,2019-01-25,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.8,2019-01-28,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.9,2019-01-30,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.09,2019-02-01,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.31,2019-02-08,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.17,2019-02-11,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.58,2019-02-15,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,8.3,2019-02-20,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.65,2019-02-22,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.45,2019-02-25,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.17,2019-02-27,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.78,2019-03-08,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.63,2019-03-11,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.65,2019-03-20,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.41,2019-03-22,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.625,2019-04-01,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.41,2019-04-05,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.95,2019-04-08,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.05,2019-04-11,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.24,2019-04-18,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.5,2019-04-22,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.87,2019-04-29,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.3,2019-05-02,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.38,2019-05-06,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.15,2019-05-10,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.01,2019-05-13,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.82,2019-05-22,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.97,2019-05-24,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.7,2019-05-27,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.3,2019-05-31,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.03,2019-06-03,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.59,2019-06-07,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.62,2019-06-11,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.55,2019-06-12,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.6,2019-06-14,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.11,2019-06-21,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.7,2019-06-24,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.95,2019-06-28,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.88,2019-07-01,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.02,2019-07-03,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.84,2019-07-05,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.39,2019-07-15,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.38,2019-07-19,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,8.19,2019-07-22,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.12,2019-07-24,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.27,2019-07-26,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.8,2019-07-29,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.14,2019-08-02,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.22,2019-08-07,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.94,2019-08-09,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.94,2019-08-12,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.95,2019-08-16,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.1,2019-08-19,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.27,2019-08-23,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.36,2019-08-30,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.83,2019-09-02,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.28,2019-09-06,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.22,2019-09-13,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.56,2019-09-16,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.21,2019-09-18,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.2,2019-09-23,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.39,2019-09-25,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,8.09,2019-09-27,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.96,2019-09-30,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.42,2019-10-04,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.53,2019-10-07,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.36,2019-10-11,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.58,2019-10-18,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.37,2019-10-25,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.53,2019-10-31,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.9,2019-11-06,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.55,2019-11-11,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.59,2019-11-15,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.9,2019-11-18,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.94,2019-11-25,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.96,2019-11-27,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.77,2019-11-29,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.99,2019-12-06,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.89,2019-12-09,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.82,2019-12-11,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.5,2019-12-13,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.76,2019-12-16,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.68,2019-12-18,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.38,2019-12-20,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.53,2019-12-25,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.62,2019-12-27,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.16,2020-01-06,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.21,2020-01-06,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.67,2020-01-08,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.43,2020-01-10,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.3,2020-01-17,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.33,2020-01-20,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.09,2020-01-22,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.64,2020-01-24,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.48,2020-01-29,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.4,2020-01-31,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,8.49,2020-02-07,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.45,2020-02-10,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.61,2020-02-14,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.32,2020-02-17,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.83,2020-02-19,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.83,2020-02-21,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.72,2020-02-24,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.71,2020-02-28,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.74,2020-03-02,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.72,2020-03-06,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.96,2020-03-13,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,5.84,2020-03-16,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.97,2020-03-20,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.1,2020-04-08,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.09,2020-04-22,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,6.92,2020-04-29,Vila Real
+ph,Controlo Analitico,Escala de Sorensen,Efluente Tratado,Saida,7.05,2020-05-20,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,12.0,2018-08-01,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,19.0,2018-08-08,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,14.0,2018-08-13,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,33.0,2018-08-24,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,24.0,2018-08-31,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,14.0,2018-09-07,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,15.0,2018-09-14,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.0,2018-09-21,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.0,2018-09-28,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,18.0,2018-10-10,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.0,2018-10-12,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.0,2018-10-24,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.0,2018-10-26,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.0,2018-11-02,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.0,2018-11-09,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2018-11-16,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.0,2018-11-23,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2018-11-30,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,11.0,2018-12-03,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2018-12-07,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,13.0,2018-12-14,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.0,2018-12-20,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.0,2018-12-26,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.0,2019-01-02,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,11.0,2019-01-11,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2019-01-18,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.0,2019-01-25,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.0,2019-02-01,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.0,2019-02-08,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.0,2019-02-15,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2019-02-22,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2019-03-01,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.0,2019-03-08,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.0,2019-03-15,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.0,2019-03-22,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2019-03-29,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2019-04-05,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.0,2019-04-12,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2019-04-18,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2019-04-26,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.0,2019-05-06,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,17.0,2019-05-10,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2019-05-17,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2019-05-24,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.0,2019-05-31,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.0,2019-06-07,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.0,2019-06-14,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.0,2019-06-21,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.0,2019-06-28,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2019-07-05,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.0,2019-07-12,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,10.0,2019-07-19,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.0,2019-07-29,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.0,2019-08-02,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,9.0,2019-08-09,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.0,2019-08-16,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.0,2019-08-23,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.0,2019-08-30,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,20.0,2019-08-30,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.0,2019-09-06,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2019-09-13,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.0,2019-09-20,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2019-09-27,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,8.0,2019-10-04,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2019-10-11,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.0,2019-10-18,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.0,2019-10-25,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.0,2019-10-31,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.0,2019-11-08,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2019-11-15,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.0,2019-11-22,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.0,2019-11-29,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,7.0,2019-12-06,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.0,2019-12-13,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.0,2019-12-20,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,10.0,2019-12-27,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,9.0,2020-01-03,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2020-01-10,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.0,2020-01-17,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.0,2020-01-24,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.0,2020-01-31,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.0,2020-02-07,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,9.0,2020-02-14,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.0,2020-02-21,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2020-02-28,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,14.0,2020-03-06,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.0,2020-03-13,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.0,2020-03-20,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-03-27,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.0,2020-04-01,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.0,2020-04-08,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,7.0,2020-04-15,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-04-24,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.0,2020-04-30,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-05-08,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.0,2020-05-14,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-05-22,Vila Real
+sst,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2020-05-27,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.5,2018-08-06,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.0,2018-08-08,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2018-08-13,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2018-08-14,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.6,2018-08-21,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.4,2018-08-22,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,9.0,2018-08-28,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,18.8,2018-08-29,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,33.4,2018-08-31,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,31.6,2018-09-04,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,28.6,2018-09-05,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,28.2,2018-09-06,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,28.6,2018-09-06,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,47.6,2018-09-11,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,39.8,2018-09-11,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,34.4,2018-09-12,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,34.6,2018-09-17,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,44.0,2018-09-19,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,23.6,2018-09-21,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,33.0,2018-09-25,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,28.0,2018-09-26,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,36.6,2018-10-02,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,34.4,2018-10-03,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,32.0,2018-10-08,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,31.8,2018-10-09,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,28.8,2018-10-10,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,30.8,2018-10-12,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,24.0,2018-10-16,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,26.0,2018-10-17,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,24.8,2018-10-18,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,36.0,2018-10-18,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,14.6,2018-10-22,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,9.7,2018-10-23,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,7.1,2018-10-24,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,8.9,2018-10-30,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.2,2018-10-31,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.8,2018-11-02,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.1,2018-11-06,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.7,2018-11-07,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2018-11-13,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.9,2018-11-14,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.6,2018-11-20,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.8,2018-11-21,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.1,2018-11-27,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.1,2018-11-28,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.3,2018-12-04,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.4,2018-12-05,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.3,2018-12-11,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.1,2018-12-13,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.19,2018-12-18,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.74,2018-12-19,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2018-12-25,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,7.18,2018-12-26,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,10.8,2019-01-02,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,11.0,2019-01-07,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,9.78,2019-01-09,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,10.1,2019-01-14,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,14.5,2019-01-16,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.47,2019-01-21,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.75,2019-01-23,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.015,2019-01-28,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.43,2019-01-30,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,10.8,2019-02-04,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,22.7,2019-02-06,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,21.8,2019-02-07,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,10.1,2019-02-11,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,16.6,2019-02-13,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,7.43,2019-02-18,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,16.1,2019-02-20,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,14.2,2019-02-21,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,10.5,2019-02-25,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,11.3,2019-02-27,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.0,2019-02-28,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.67,2019-03-04,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.94,2019-03-06,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.7,2019-03-11,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.9,2019-03-13,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.95,2019-03-18,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,10.0,2019-03-20,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,9.43,2019-03-25,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,15.1,2019-03-27,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,11.7,2019-04-01,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,12.2,2019-04-02,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,12.0,2019-04-03,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.1,2019-04-03,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.26,2019-04-04,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,9.03,2019-04-05,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.61,2019-04-08,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.56,2019-04-10,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,16.8,2019-04-11,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.27,2019-04-15,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,30.4,2019-04-17,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,20.7,2019-04-22,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,29.4,2019-04-24,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,26.2,2019-04-29,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,28.3,2019-05-01,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,33.8,2019-05-06,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,40.0,2019-05-08,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,38.8,2019-05-13,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,45.8,2019-05-15,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,15.6,2019-05-20,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,14.5,2019-05-22,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,12.0,2019-05-23,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,8.72,2019-05-24,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,16.8,2019-05-27,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,7.71,2019-05-27,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.28,2019-05-28,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.929,2019-05-29,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,10.5,2019-06-03,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,20.2,2019-06-05,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.82,2019-06-10,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.015,2019-06-12,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,29.0,2019-06-17,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,7.79,2019-06-19,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.07,2019-06-24,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.89,2019-06-26,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,9.38,2019-07-01,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,15.0,2019-07-03,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,34.9,2019-07-08,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,35.6,2019-07-10,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,14.4,2019-07-15,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,14.4,2019-07-17,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,7.22,2019-07-19,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,13.6,2019-07-22,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,21.3,2019-07-24,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,34.8,2019-07-29,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,28.4,2019-07-31,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,9.78,2019-08-05,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,8.29,2019-08-07,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.93,2019-08-12,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,7.6,2019-08-14,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.51,2019-08-16,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.64,2019-08-19,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,12.1,2019-08-21,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,18.7,2019-08-28,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,9.66,2019-08-29,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,20.2,2019-09-02,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.43,2019-09-04,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.586,2019-09-09,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.31,2019-09-11,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.68,2019-09-16,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.84,2019-09-18,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.22,2019-09-23,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.59,2019-09-25,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.38,2019-09-30,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.05,2019-10-02,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.0,2019-10-07,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.015,2019-10-09,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.72,2019-10-14,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,7.84,2019-10-16,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.1,2019-10-21,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,7.62,2019-10-23,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,9.77,2019-10-28,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,15.7,2019-10-30,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,14.6,2019-11-04,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,10.0,2019-11-06,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.42,2019-11-11,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.1,2019-11-13,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.62,2019-11-18,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.95,2019-11-20,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.33,2019-11-25,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.06,2019-11-27,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.3,2019-12-02,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.85,2019-12-04,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.05,2019-12-09,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.49,2019-12-11,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.979,2019-12-16,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.25,2019-12-18,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.55,2019-12-23,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.63,2019-12-25,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,9.36,2019-12-30,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,8.63,2020-01-02,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,9.47,2020-01-06,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,9.33,2020-01-08,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,10.1,2020-01-13,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,7.87,2020-01-15,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.7,2020-01-20,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.8,2020-01-22,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.51,2020-01-27,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.99,2020-01-29,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.26,2020-02-03,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,9.3,2020-02-05,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.29,2020-02-10,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.27,2020-02-12,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.64,2020-02-17,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,9.48,2020-02-19,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.44,2020-02-24,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,7.09,2020-02-26,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,7.37,2020-03-02,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,8.18,2020-03-04,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,12.5,2020-03-09,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,13.3,2020-03-11,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,12.6,2020-03-16,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,11.8,2020-03-18,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-03-25,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.71,2020-03-26,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-03-30,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,12.0,2020-04-01,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.92,2020-04-07,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.75,2020-04-08,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-04-13,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.37,2020-04-15,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-04-20,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.79,2020-04-22,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-04-27,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.42,2020-04-29,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-05-04,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.56,2020-05-06,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-05-11,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.08,2020-05-13,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-05-18,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.73,2020-05-20,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-05-25,Vila Real
+amonia,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.42,2020-05-27,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,7.1,2018-08-06,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,6.3,2018-08-08,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,3.7,2018-08-13,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2018-08-14,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,2.3,2018-08-21,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,3.2,2018-08-22,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,5.5,2018-08-28,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2018-08-29,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,1.4,2018-08-31,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2018-09-04,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2018-09-05,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.7,2018-09-11,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,1.7,2018-09-12,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2018-09-17,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,1.2,2018-09-19,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2018-09-25,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,1.0,2018-09-26,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2018-10-02,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2018-10-03,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,1.3,2018-10-08,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,1.4,2018-10-09,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,3.0,2018-10-10,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2018-10-16,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.7,2018-10-17,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.9,2018-10-18,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2018-10-18,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,3.8,2018-10-22,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,5.6,2018-10-23,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,6.2,2018-10-24,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,7.0,2018-10-30,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2018-10-31,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,8.0,2018-11-02,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,5.6,2018-11-06,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,5.4,2018-11-07,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,3.4,2018-11-13,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,7.7,2018-11-14,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2018-11-20,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,6.9,2018-11-21,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,5.6,2018-11-27,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,5.5,2018-11-28,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,5.8,2018-12-04,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,6.5,2018-12-05,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,4.8,2018-12-11,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,4.0,2018-12-13,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,1.7,2018-12-18,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,1.03,2018-12-19,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2018-12-25,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,1.22,2018-12-26,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,1.29,2019-01-02,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,1.87,2019-01-07,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,2.11,2019-01-09,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,2.37,2019-01-14,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,1.9,2019-01-16,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,1.96,2019-01-21,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,3.4,2019-01-23,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,2.85,2019-01-28,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,4.01,2019-01-30,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.544,2019-02-04,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.34,2019-02-06,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.546,2019-02-07,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,1.72,2019-02-11,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.723,2019-02-13,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,2.91,2019-02-18,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.651,2019-02-20,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,5.4,2019-02-21,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,2.76,2019-02-25,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,4.26,2019-02-27,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,5.69,2019-02-28,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,5.16,2019-03-04,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,4.32,2019-03-06,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,3.37,2019-03-11,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,4.71,2019-03-13,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,2.98,2019-03-18,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,6.6,2019-03-20,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,3.84,2019-03-25,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,3.98,2019-03-27,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,4.76,2019-04-01,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,4.52,2019-04-02,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,5.9,2019-04-03,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,7.17,2019-04-03,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,8.12,2019-04-04,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,7.52,2019-04-05,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,4.87,2019-04-08,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,3.75,2019-04-10,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,3.06,2019-04-11,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,26.3,2019-04-15,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,1.59,2019-04-17,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,1.75,2019-04-22,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,2.7,2019-04-24,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,1.09,2019-04-29,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,1.34,2019-05-01,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.533,2019-05-06,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,1.2,2019-05-08,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.737,2019-05-13,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.891,2019-05-15,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,6.74,2019-05-20,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,7.39,2019-05-22,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,7.89,2019-05-23,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,7.5,2019-05-24,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,5.31,2019-05-27,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,7.77,2019-05-27,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,8.49,2019-05-28,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,7.78,2019-05-29,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,7.78,2019-06-03,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,7.0,2019-06-05,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,8.44,2019-06-10,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,8.68,2019-06-12,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,4.28,2019-06-17,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,9.67,2019-06-19,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,7.41,2019-06-24,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,8.01,2019-06-26,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,8.29,2019-07-01,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,6.48,2019-07-03,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,3.93,2019-07-08,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,4.15,2019-07-10,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,7.69,2019-07-15,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,7.53,2019-07-17,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,6.69,2019-07-19,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,5.86,2019-07-22,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,5.51,2019-07-24,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,2.31,2019-07-29,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,7.79,2019-07-31,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,6.76,2019-08-05,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,7.27,2019-08-07,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,9.65,2019-08-12,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,9.65,2019-08-14,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,6.13,2019-08-16,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,6.6,2019-08-19,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,5.81,2019-08-21,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,12.0,2019-08-28,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,13.5,2019-08-29,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,11.8,2019-09-02,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,8.55,2019-09-04,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,7.69,2019-09-09,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,11.2,2019-09-11,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,4.19,2019-09-16,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,5.92,2019-09-18,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,4.45,2019-09-23,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,5.49,2019-09-25,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,3.74,2019-09-30,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,6.51,2019-10-02,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,5.87,2019-10-07,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,7.15,2019-10-09,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,6.45,2019-10-14,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,1.31,2019-10-16,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,4.66,2019-10-21,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,7.32,2019-10-23,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,8.87,2019-10-28,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,5.37,2019-10-30,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,2.97,2019-11-04,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,3.26,2019-11-06,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,6.45,2019-11-11,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,7.01,2019-11-13,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,7.17,2019-11-18,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,7.57,2019-11-20,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,5.34,2019-11-25,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,4.97,2019-11-27,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,1.8,2019-12-02,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,4.8,2019-12-04,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,7.3,2019-12-09,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,7.05,2019-12-11,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,3.07,2019-12-16,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,3.97,2019-12-18,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.644,2019-12-23,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,1.44,2019-12-25,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,2.35,2019-12-30,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,2.19,2020-01-02,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,4.83,2020-01-06,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,3.54,2020-01-08,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,5.41,2020-01-13,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,6.74,2020-01-15,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,3.79,2020-01-20,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,5.64,2020-01-22,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,4.1,2020-01-27,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,3.15,2020-01-29,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,3.05,2020-02-03,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,3.46,2020-02-05,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,4.29,2020-02-10,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,5.1,2020-02-12,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,3.83,2020-02-17,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,3.39,2020-02-19,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,2.65,2020-02-24,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,3.11,2020-02-26,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,1.73,2020-03-02,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,1.25,2020-03-04,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.846,2020-03-09,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,1.8,2020-03-11,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,2.46,2020-03-16,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,3.04,2020-03-18,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-03-25,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,4.15,2020-03-26,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-03-30,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,3.49,2020-04-01,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,4.98,2020-04-07,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,4.06,2020-04-08,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-04-13,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,2.45,2020-04-15,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-04-20,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,3.04,2020-04-22,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-04-27,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,5.54,2020-04-29,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-05-04,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,3.59,2020-05-06,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-05-11,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,4.79,2020-05-13,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-05-18,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,2.95,2020-05-20,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-05-25,Vila Real
+nitratos(no3),Controlo Analitico,mg/l,Efluente Tratado,Saida,4.84,2020-05-27,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.3,2018-08-06,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.7,2018-08-13,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.2,2018-08-21,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.1,2018-08-28,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.9,2018-09-04,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.7,2018-09-11,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2018-09-17,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2018-09-25,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2018-10-02,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2018-10-09,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2018-10-16,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2018-10-23,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2018-10-30,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.3,2018-11-06,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2018-11-13,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.1,2018-11-20,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2018-11-27,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.27,2018-12-04,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.61,2018-12-11,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2018-12-13,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.517,2018-12-18,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.57,2018-12-26,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2019-01-02,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.16,2019-01-07,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.261,2019-01-14,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2019-01-21,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.05,2019-01-28,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.39,2019-02-04,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.45,2019-02-06,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.835,2019-02-07,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2019-02-11,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.015,2019-02-18,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.041,2019-02-25,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.131,2019-03-04,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.211,2019-03-11,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.441,2019-03-18,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.219,2019-03-25,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.336,2019-04-01,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.13,2019-04-08,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.45,2019-04-15,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.587,2019-04-22,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.345,2019-04-29,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.368,2019-05-06,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.401,2019-05-13,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,6.29,2019-05-20,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.125,2019-05-22,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.107,2019-05-23,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.276,2019-05-27,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.193,2019-05-27,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.962,2019-05-29,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.57,2019-06-03,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.2,2019-06-10,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.32,2019-06-17,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.98,2019-06-24,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.14,2019-07-01,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,7.99,2019-07-08,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.877,2019-07-15,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.442,2019-07-22,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.696,2019-07-29,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.536,2019-08-05,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.16,2019-08-12,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,7.02,2019-08-19,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.573,2019-08-29,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.12,2019-09-02,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.615,2019-09-04,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.3,2019-09-09,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.5,2019-09-16,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.818,2019-09-18,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.49,2019-09-23,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.598,2019-09-30,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.19,2019-10-07,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.23,2019-10-14,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.9,2019-10-16,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.91,2019-10-17,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.79,2019-10-21,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.346,2019-10-28,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.65,2019-11-04,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.38,2019-11-11,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.057,2019-11-18,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.145,2019-11-25,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.125,2019-12-02,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.152,2019-12-09,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.401,2019-12-16,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.89,2019-12-23,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.213,2019-12-30,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.251,2020-01-06,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.159,2020-01-13,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.951,2020-01-20,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.932,2020-01-27,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.407,2020-02-03,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.922,2020-02-10,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.42,2020-02-17,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.55,2020-02-24,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.93,2020-02-26,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,5.97,2020-03-02,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.18,2020-03-09,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.748,2020-03-16,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.88,2020-03-26,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.05,2020-04-01,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.73,2020-04-07,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.34,2020-04-08,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.41,2020-04-15,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.0,2020-04-20,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,7.24,2020-04-22,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,4.47,2020-04-29,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,1.32,2020-05-06,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,2.27,2020-05-13,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,0.958,2020-05-20,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.2,2020-05-27,Vila Real
+ortofosfatos,Controlo Analitico,mg/l,Efluente Tratado,Saida,3.08,2020-05-28,Vila Real
